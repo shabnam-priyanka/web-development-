@@ -1,0 +1,25 @@
+body[
+    font-family: 'Source Sans Pro', sans-serif;  
+]
+
+h1{
+font-size: 50px;
+}
+
+.name-highlight{
+    color: orange;
+}
+
+.half-width{
+
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.half-width img{
+    width: 100%;
+    
+}
