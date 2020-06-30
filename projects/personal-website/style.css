@@ -1,0 +1,26 @@
+
+h1{
+    font-size: 50px;
+    }
+    
+    .orange-highlight{
+        color: rgb(255, 115, 0);
+    }
+    h2{
+        font-size: 40px;
+    }
+
+    .half-width{
+
+        width: 40%;
+        float: middle;
+        margin-left: 5%;
+        padding-left: 2%;
+    
+    }
+
+    .half-width img{
+        width: 100%;
+    
+    }
+    
