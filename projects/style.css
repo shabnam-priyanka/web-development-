@@ -31,7 +31,7 @@ p{
 }
 
 .half-width img{
-    width: 40%;
+    width: 100%;
 
 }
 
@@ -70,15 +70,9 @@ section{
 
 }
 
-.dream-area{
-
-    background-image: url("images/dream-bg.png");
-    background-repeat: no-repeat;
-    background-position: right;
-}
 
 .single-experience {
-box-shadow: 10px 10px gold;
+box-shadow: 10px 10px 40px grey;
 border-radius: 5px;
 height: 60%
 
@@ -86,21 +80,24 @@ height: 60%
 
 .experience-area{
 
-    background-image: url ("developer-portfolio/exp-bd.png");
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
 }
 
 #full-stack{
 
     border-left: 7px solid;
-    border-image: linear-gradient (180deg, lightSalmon, Tomato);
+    border-image: linear-gradient(180deg, lightSalmon, Tomato);
     border-image-slice: 1;
+    background-color: white;
 
 }
 
-.baby-web{
+#baby-web{
 
     border-left: 7px solid;
-    border-image: linear-gradient (180deg, blue, cyan);
+    border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 
 }
