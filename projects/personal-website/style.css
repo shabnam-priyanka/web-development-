@@ -1,7 +1,8 @@
 
 
-.header{
-    background-image: url("image/header-bg.png");
+#center{
+   text-align: center; 
+
 }
 
 .red-highlight{
@@ -15,6 +16,30 @@
     color: white;
     font-weight: 700;
 
+}
+
+p{
+    color: dimgray;
+}
+
+.half-width{
+
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.half-width img{
+    width: 40%;
+
+}
+
+#work{
+float: left;
+width: 20%;
+padding:5%;
 }
 
 
